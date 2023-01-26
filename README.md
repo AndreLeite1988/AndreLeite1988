@@ -30,6 +30,6 @@
 </div>
 
 <p>
-![Snake animation](https://github.com/AndreLeite1988/AndreLeite1988/blob/output/github-contribution-grid-snake.svg)
+<![Snake animation](https://github.com/AndreLeite1988/AndreLeite1988/blob/output/github-contribution-grid-snake.svg)->
 </p>
   
