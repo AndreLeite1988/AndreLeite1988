@@ -5,6 +5,8 @@
 <div>
 <a href="https://github.com/AndreLeite1988">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AndreLeite1988&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <p>
+  </p>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreLeite1988&layout=compact&langs_count=16&theme=dracula"/>
   </div>
   
